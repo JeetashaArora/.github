@@ -40,6 +40,16 @@ The Athlete Wearables Tech initiative, previously known as the Sports Performanc
 ## Redback Orion: Crowd Monitoring and Player Tracking
 Named after the astute hunter of Greek mythology and the constellation that illuminates our night sky, Project Orion represents a pioneering venture poised to redefine our engagement with sports. Project Orion is a cutting-edge initiative designed to revolutionise the way we perceive and interact with the sports field. Orion, renowned for his ability to never lose track of his target, perfectly embodies our  mission. Project Orion's primary objective is to forge an intelligent, real-time tracking system for athletes, employing cutting-edge wearable IoT (Internet of Things) technology.
 
+## Redback : Bugbox
+BugBox is an innovative educational platform dedicated to revolutionizing the way digital technology is taught in schools. It seamlessly integrates physical and digital teaching tools, allowing students to explore STEM concepts in an engaging and interactive manner. By fostering a learning environment where curiosity thrives and failure is seen as a stepping stone to discovery, BugBox aims to prepare students to tackle the challenges of the future.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-bugbox-cms)](https://github.com/Redback-Operations/redback-bugbox-cms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-ui)](https://github.com/Redback-Operations/redback-ui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-senior-mobile)](https://github.com/Redback-Operations/redback-senior-mobile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-cms)](https://github.com/Redback-Operations/redback-cms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=Elderly_Wearable_Tech)](https://github.com/Redback-Operations/Elderly_Wearable_Tech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-chatbot)](https://github.com/Redback-Operations/redback-chatbot)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-orion)](https://github.com/Redback-Operations/redback-orion)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-orion-mobile)](https://github.com/Redback-Operations/redback-orion-mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-orion-web)](https://github.com/Redback-Operations/redback-orion-web)

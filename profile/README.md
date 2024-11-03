@@ -40,11 +40,10 @@ The Athlete Wearables Tech initiative, previously known as the Sports Performanc
 ## Redback Orion: Crowd Monitoring and Player Tracking
 Named after the astute hunter of Greek mythology and the constellation that illuminates our night sky, Project Orion represents a pioneering venture poised to redefine our engagement with sports. Project Orion is a cutting-edge initiative designed to revolutionise the way we perceive and interact with the sports field. Orion, renowned for his ability to never lose track of his target, perfectly embodies our  mission. Project Orion's primary objective is to forge an intelligent, real-time tracking system for athletes, employing cutting-edge wearable IoT (Internet of Things) technology.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-orion)](https://github.com/Redback-Operations/redback-orion)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-orion-mobile)](https://github.com/Redback-Operations/redback-orion-mobile)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-orion-web)](https://github.com/Redback-Operations/redback-orion-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-ui)](https://github.com/Redback-Operations/redback-ui)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-cms)](https://github.com/Redback-Operations/redback-cms)
+## Redback : Bugbox
+BugBox is an innovative educational platform dedicated to revolutionizing the way digital technology is taught in schools. It seamlessly integrates physical and digital teaching tools, allowing students to explore STEM concepts in an engaging and interactive manner. By fostering a learning environment where curiosity thrives and failure is seen as a stepping stone to discovery, BugBox aims to prepare students to tackle the challenges of the future.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Redback-Operations&repo=redback-bugbox-repo)](https://github.com/Redback-Operations/redback-bugbox-repo)
 
 ## Cyber Security
 Cybersecurity Team is dedicated to safeguarding Redback Operations through continuous improvement, strategic planning, and the implementation of best practices in security. This team is also the current custodian of Redback's new documentation website.
